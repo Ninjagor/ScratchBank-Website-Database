@@ -1,0 +1,38 @@
+!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>ScratchBank Website</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+  <div class="banner">
+    <div class="navbar">
+      <div class="logo"><h1>ScratchBank</h1></div>
+      <ul>
+        <li><a href="https://scratchbank-login-design-2.ninjagor.repl.co/#">Login</a></li>
+        <li><a href="#">Overview</a></li>
+        <li><a href="#">Orders</a></li>
+        <li><a href="#">Requests</a></li>
+        <li><a href="#">Devs</a></li>
+        <li><a href="#">Service</a></li>
+
+      </ul>
+    </div>
+
+    <div class="content">
+      <h1>ScratchBank</h1>
+      <p>This is just a Demo Paragraph. This will be edited in the Final Version. <br>Thank you!</p>
+    <div>
+      <button type="button"><span></span>Forum Discussion</button>
+      <button type="button"><span></span>Support ScratchBank</button>
+    </div>
+    
+    </div>
+    
+  </div>
+  
+</body>
+</html>
